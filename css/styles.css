@@ -14,17 +14,24 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
-    background-color: hotpink;
-    border: 1px white solid;
+    color: #fffdeb;
+    background-color: #D4747C;
+    border: 1px #fffdeb solid;
     display: block;
     padding:10px;
     text-decoration: none;
+    font-family: 'Raleway', sans-serif;
 }
 
 /* html selectors */
-body{
+body {
     text-align: center;
+    background-color: #fffdeb;
+}
+
+footer {
+    color: #232B35;
+    font-family: 'Raleway', sans-serif;
 }
 
 

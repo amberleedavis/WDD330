@@ -28,29 +28,4 @@ h2 {
     color: #232B35;
 }
 
-ul li{
-    font-size: 1.3em;
-    font-family: 'Raleway', sans-serif;
-    list-style-type: none;
-}
 
-li a:link{
-    color: #232b35;
-    text-decoration: none;
-}
-
-li a:hover{
-    color: darkorchid;
-}
-
-li a:visited{
-    color: darkorchid;
-}
-
-li a:active{
-    color: #232b35;
-}
-
-input, button{
-    border: solid #232b35 1px;
-}
